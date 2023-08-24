@@ -1,0 +1,10 @@
+[2023-08-24T21:38:35.741] [INFO] default - onRunnerStart: 0-0
+[2023-08-24T21:38:35.746] [INFO] default - onRunnerEnd: 0-0
+[2023-08-24T21:38:35.747] [INFO] default - Report Generation started
+[2023-08-24T21:38:35.747] [ERROR] default - Invalid Metrics computed: undefined -- undefined
+[2023-08-24T21:38:35.747] [INFO] default - Generated 1 specs, 0 suites, 
+[2023-08-24T21:38:35.747] [INFO] default - Json report write starting: /Users/saralajamadar/Workspace/volvocars/reports/html-reports/report-0-0.json
+[2023-08-24T21:38:35.780] [INFO] default - Json write completed: /Users/saralajamadar/Workspace/volvocars/reports/html-reports/report-0-0.json
+[2023-08-24T21:38:35.780] [INFO] default - Json Generation Completed
+[2023-08-24T21:38:35.780] [INFO] default - Report Generation completed
+[2023-08-24T21:38:35.849] [DEBUG] default - isSynchronized: true
